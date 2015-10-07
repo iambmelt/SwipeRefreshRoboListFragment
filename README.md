@@ -1,7 +1,7 @@
 SwipeRefreshRoboListFragment
 ============================
 
-A RoboListFragment with turnkey support for Android's ```support.v4.widget.SwipeRefreshLayout```
+A [`RoboListFragment`](https://raw.githubusercontent.com/roboguice/roboguice/bf9043c5af085408a5d26ea8e5f857e8d0a9bdab/roboguice/src/main/java/roboguice/fragment/provided/RoboListFragment.java) with turnkey support for Android's ```support.v4.widget.SwipeRefreshLayout```
 
 
 Users of this Fragment need only override a single abstract method 
